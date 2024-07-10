@@ -1,5 +1,8 @@
 <h1 align="center">Wassup? It's me Quoc An aka Vang A Quoc</h1>
 
+<p align="center">
+  <img src="https://github.com/quocan05/pin-header/blob/main/transform-ezgif.com-video-to-gif-converter.gif" alt="GIF"/>
+</p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/quocaan05" target="blank">
@@ -8,10 +11,6 @@
   <a href="https://fb.com/quocaan05" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="quocaan05" height="30" width="40" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://github.com/quocan05/pin-header/blob/main/transform-ezgif.com-video-to-gif-converter.gif" alt="GIF"/>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
